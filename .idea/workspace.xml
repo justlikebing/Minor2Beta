@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77193d79-aed7-4a1d-8a27-e6f070ec7681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LAKSHIT MINOR PROJECT TRIAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anas Size Detection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Color Detection/color_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/captured_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/color_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/colorpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/colors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/imageCaptureWithCamera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/img5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/scale_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/single_wheat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/size_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/wheat single.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/captured_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opens Camera and clicks an image/imageCaptureWithCamera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Size Detection/size_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minor Project/NewRealTimeSizeDetection/ObjMeasurement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minor Project/NewRealTimeSizeDetection/wheat single.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minor Project/minor2work" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minor Project/newSizeDetection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinorIntegrate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/chittaurgarh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/chittorgarh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/contact_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/contact_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/fort.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/hackathon1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/hackathon1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/imageblur3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/neemrana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackathon/udaipur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anas Size Detection/size_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anas Size Detection/size_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/12BA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/26AS 201920.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/CBDTSMChallanForm20-12-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/CHALLAN FOR AY20202021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/HDFC RECPT NOV20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/INTEREST 1920.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/MOB BILL DETAIL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/PREVIEW ITR AY 202021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/Screenshot (245).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/Screenshot (246).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/Screenshot (247).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/Screenshot (248).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/bekupA And B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/form16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/form16B.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/mob bill.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/pkj form 16.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/salary brkup1920.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKJ/sbipapa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../µTorrent.lnk" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OyoT65FHGHHLJaez7JkefAO2dL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.color_detection">
+    <configuration name="ObjectMeasurement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LAKSHIT MINOR PROJECT TRIAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/ObjectMeasurement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="color_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LAKSHIT MINOR PROJECT TRIAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/color_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imageCaptureWithCamera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LAKSHIT MINOR PROJECT TRIAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/imageCaptureWithCamera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LAKSHIT MINOR PROJECT TRIAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="size_object (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LAKSHIT MINOR PROJECT TRIAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/size_object.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.color_detection" />
+        <item itemvalue="Python.ObjectMeasurement" />
+        <item itemvalue="Python.size_object (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.imageCaptureWithCamera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77193d79-aed7-4a1d-8a27-e6f070ec7681" name="Default Changelist" comment="" />
+      <created>1682542186782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682542186782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
