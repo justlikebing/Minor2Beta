@@ -59,7 +59,6 @@ def color_func():
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-
 # function to calculate minimum distance from all colors and get the most matching color
 def get_color_name(R, G, B):
     minimum = 10000
